@@ -1,3 +1,3 @@
 
 
-<img src="https://svg-counter.flemingrgordon.workers.dev/counts.svg" alt="counterupper">
+<img src="https://counter.gordonfleming.co.za/" alt="counterupper">
