@@ -1,2 +1,3 @@
-![counter](https://svg-counter.flemingrgordon.workers.dev/counts.svg)
 
+
+<img src="https://svg-counter.flemingrgordon.workers.dev/counts.svg" alt="counterupper">
